@@ -13,12 +13,5 @@ Algorithms implemented
  till we reach 15 when we get FizzBuzz
  
  - Recursive binary tree
- 
-        10
-       /  \
-      5   14
-     /   /  \
-    1   11   20
-
-- Reversing every other word in a sentence and Reversing even words or the odd words in a sentence
+ - Reversing every other word in a sentence and Reversing even words or the odd words in a sentence
  
