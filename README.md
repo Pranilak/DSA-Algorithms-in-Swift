@@ -6,7 +6,7 @@ Algorithms implemented
  - Binary search
  - Finding the commonly recuring name using the least complexity. 
  - Recursive Factorial
- - Fizz Buzz 
+ - Fizz Buzz: 
  This algorithm wants us to print an array of numbers from 1 to 15
  Catch:
  We have to print it in such a way that we replaces the multiples of 3 as Fizz and multiples of 5 as Buzz
